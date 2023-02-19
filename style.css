@@ -1,0 +1,36 @@
+*{
+
+
+    font-family: 'Poppins', sans-serif;
+   background-color: wheat;
+
+}
+#mohaned{
+    margin-left: 90%;
+}
+#chek{
+border: solid 1px;
+border-color: wheat;
+font-size: 30px;
+}
+.a{
+text-decoration: none;
+font-size: 50px;
+color: darkturquoise;
+
+}
+#mm{
+    font-size: 40px;
+}
+nav{
+    font-size: 40px;
+}
+#aa{
+font-size:80px;
+text-decoration: none;
+color: olivedrab;
+display: flex;
+margin-bottom: 5em;
+padding-left: 5.5em;
+
+}
